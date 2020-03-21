@@ -16,5 +16,5 @@ Scroll-Reveal : https://scrollrevealjs.org/
 
 ## Screenshot
 
-<video src="C:\Users\timor\Documents\ShareX\Screenshots\2020-03\8FV52AhARb.mp4"></video>
+<video src=".\8FV52AhARb.mp4"></video>
 
