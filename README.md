@@ -16,5 +16,5 @@ Scroll-Reveal : https://scrollrevealjs.org/
 
 ## Screenshot
 
-<video src=".\8FV52AhARb.mp4"></video>
+<img src="https://cdn.dribbble.com/users/112332/screenshots/1560982/rosa-restaurant-website.jpg"></img>
 
