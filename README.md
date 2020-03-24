@@ -4,7 +4,7 @@ A recreation of an dribble design made by George Olaru.
 
 Design URL :  https://dribbble.com/shots/1560982-Rosa-Restaurant-Website
 
-
+# Live Demo : https://timorsa.github.io/ROSA/#hero
 
 # Technologies Used 
 
